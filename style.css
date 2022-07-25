@@ -17,3 +17,18 @@ body {
   border: 0;
   border-radius: 5px;
 }
+
+.discount {
+  position: absolute;
+  right: 0px;
+  top: 60px;
+}
+
+.explore-description {
+  position: relative;
+}
+
+.close-button {
+  width: 3px;
+  height: 3px;
+}
