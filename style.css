@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@400;500&family=Quicksand&display=swap");
+
+body {
+  /* font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif; */
+  font-family: "Quicksand", sans-serif;
+}
+
+.caro-icon {
+  width: 25%;
+  height: 25%;
+}
+
+.caro-indicator [data-bs-target] {
+  width: 5%;
+  height: 6px;
+  border: 0;
+  border-radius: 5px;
+}
