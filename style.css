@@ -32,3 +32,13 @@ body {
   width: 3px;
   height: 3px;
 }
+
+.card-3 {
+  position: relative;
+}
+
+.hot-button {
+  position: absolute;
+  right: 40px;
+  top: -20px;
+}
